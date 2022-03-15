@@ -11,7 +11,7 @@
       color: #fff;
     }
     .bgoverlay{
-      background: rgb(103,58,183);
+      background: rgba(104, 58, 183, 0.836);
       background: rgba(103,58,183,0.7);
       position: absolute;
       top:0;
@@ -166,7 +166,7 @@
     }
     h1,h2,h3{
          user-select: none;}
-    }
+   
     #all{
     text-align: center;
     width: 50%;
